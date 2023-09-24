@@ -2,7 +2,7 @@
 title: "Post: Standard"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Go lang
 tags:
   - Post Formats
   - readability

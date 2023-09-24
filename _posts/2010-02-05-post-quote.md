@@ -1,7 +1,7 @@
 ---
 title: "Post: Quote"
 categories:
-  - Blog
+  - 业务相关
 tags:
   - Post Formats
   - quote

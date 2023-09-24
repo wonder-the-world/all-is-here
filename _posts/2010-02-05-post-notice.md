@@ -1,7 +1,7 @@
 ---
 title: "Post: Notice"
 categories:
-  - Blog
+  - 云原生技术
 tags:
   - Post Formats
   - notice
