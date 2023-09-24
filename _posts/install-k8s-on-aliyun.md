@@ -1,5 +1,5 @@
 ---
-title: "Post: aliyun install k8s"
+title: "install k8s on aliyun"
 categories:
   - 云原生技术
 tags:
